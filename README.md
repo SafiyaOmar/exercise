@@ -1,6 +1,7 @@
 Hostel Management System
 
 Hostel Management System ni programu rahisi inayotumika kusimamia shughuli zote za hosteli. Inarahisisha kazi kwa wamiliki na wasimamizi wa hosteli kwa kuhakikisha taarifa zote muhimu zinahifadhiwa na kudhibitiwa kwa urahisi.
+
 Programu hii imeandikwa kwa kutumia **Python** na **SQLite** ili kusaidia kusimamia wanafunzi wanaoishi kwenye hostel.  
 Mfumo huu ni rahisi na unaweza kupanuliwa kulingana na mahitaji yako.
 
